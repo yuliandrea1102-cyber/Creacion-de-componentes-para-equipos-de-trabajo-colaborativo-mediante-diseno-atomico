@@ -1,6 +1,11 @@
 #Creación de componentes para equipos de trabajo colaborativo mediante diseño atómico.
 Los equipos de diseño y desarrollo enfrentaban inconsistencias en el uso de componentes, lo que generaba retrabajo y dificultaba la colaboración..
 
+✅  Identificar estructura atómica de la interfaz
+✅  Crear componentes atómicos
+✅  Documentar y categorizar componentes
+✅  Construir pantalla y casos de uso basado en componentes
+
 
   <img width="411" height="483" alt="Screenshot_1" src="https://github.com/user-attachments/assets/4a330006-bc54-4f7e-a1fa-2deb80a3949d" />
   <img width="429" height="231" alt="Screenshot_2" src="https://github.com/user-attachments/assets/55131212-fd5f-4d96-b3ab-fdadfed8f7e9" />
