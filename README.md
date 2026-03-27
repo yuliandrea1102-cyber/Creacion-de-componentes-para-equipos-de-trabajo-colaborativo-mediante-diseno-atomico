@@ -15,4 +15,12 @@ Los equipos de diseño y desarrollo enfrentaban inconsistencias en el uso de com
 <img width="260" height="502" alt="Screenshot_7" src="https://github.com/user-attachments/assets/bc4cfec4-a6a6-4757-9d5c-b044216d0ce9" />
 <img width="247" height="509" alt="Screenshot_8" src="https://github.com/user-attachments/assets/60c6238b-5a8a-4204-9460-a35b7d7876b3" />
 
+Resultados:
 
+✅ Reduje el tiempo de diseño en un 40% implementando un sistema basado en atomic design
+✅ Mejoré la consistencia del producto mediante la estandarización de componentes
+✅ Facilité la escalabilidad del diseño permitiendo construir interfaces de forma modular
+✅ Optimicé la colaboración entre equipos, reduciendo fricción en handoff
+
+“Reducción del tiempo de diseño en un 40%”
+“Disminución del tiempo de creación de pantallas gracias a reutilización de componentes”
